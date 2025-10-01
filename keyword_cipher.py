@@ -1,3 +1,5 @@
+# Assuming key and message to contain only lowercase English alphabet
+
 def keyword_cipher(key, message):
     alphabet = "abcdefghijklmnopqrstuvwxyz"
     remaining_chars = []
